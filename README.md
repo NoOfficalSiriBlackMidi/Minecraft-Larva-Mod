@@ -13,20 +13,20 @@ Minecraft Java (Forge) 1.20-1.20.1
 
 Because I'm too lazy to do it.
 
-### Download Link
+## Download Link:
 
-## Bedrock
+# Bedrock
 
-# 1.20
+1.20:
 
-# 1.20.1
+1.20.1:
 
-## Java (Forge)
+# Java (Forge)
 
-# 1.20
+1.20:
 
-# 1.20.1
+1.20.1:
 
-### Mod Maker
+# Mod Maker
 
 I using Mcreator to make larva mod.
